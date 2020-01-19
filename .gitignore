@@ -1,0 +1,6 @@
+#tmp и файлы, заканчивающиеся суффиксами _old, _backup;
+tmp/
+*.*_old
+*.*_backup
+Thumbs.db
+*.*DS_Store
